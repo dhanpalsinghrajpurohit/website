@@ -1,8 +1,7 @@
 <<<<<<< HEAD
-this is a another files.
-this file belongs from branch newbranch.
+first time.
+third time.
+fourth time.
 =======
-this is part of subbranch.
-try to check conflict concepts.
-it is locally updated from shared branch.
->>>>>>> shared
+second time.
+>>>>>>> branch-b
