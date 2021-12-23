@@ -1,1 +1,2 @@
-this is part of subbranch.
+this is a another files.
+this file belongs from branch newbranch.
